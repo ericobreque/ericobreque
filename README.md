@@ -1,7 +1,7 @@
 ### Hola 👋
 <h2> Mi Nombre es Eric Obreque</h2>
 
-<h3> 👩‍ 💻 Sobre mi </h3>
+<h3> 💻 Sobre mi </h3>
 
 Soy Desarrollador Web Full Stack, especializado en la creación de aplicaciones web innovadoras.
 Actualmente mi carrera está orienta al desarrollo en Magento 2 (Adobe Commerce) ya que considero que es una de las mejores tecnologías para el mundo Ecommerce. 
